@@ -1,0 +1,10 @@
+Assignment 3.3
+===
+Steps to run:
+1. cd S3D-IO-3.3
+2. qsub run.sh
+
+For graph plotting:
+After running the run.sh  read_plot and write_plot file get generated.
+keep these files in same dir as plot.py and run
+>> python3 plot.py 

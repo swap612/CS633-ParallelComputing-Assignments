@@ -1,0 +1,52 @@
+I. Installation Steps for MPICH 
+
+1. Download mpich from https://www.mpich.org/.
+2. Extract the tar file.
+        tar -xfz mpich.3.2.1.tar.gz
+3. Goto extracted folder. 
+        cd mpich-3.2.1
+4. Create an installion directory 
+        mkdir mpich_install
+5. Configure the mpich
+        ./configure --prefix=/mpich_install | tee .txt
+Hurdle 1:        
+        error:configure: error: No Fortran 77 compiler found. If you don't need to
+                build any Fortran programs, you can disable Fortran support using
+                --disable-fortran. If you do want to build Fortran
+                programs, you need to install a Fortran compiler such as gfortran
+                or ifort before you can proceed.
+                
+        Solved: 
+        1. installed fortran compiler :sudo apt install gfortran
+
+6. Build MPICH:
+	make 2>&1 | tee m.txt   
+
+7. install the MPICH commands
+         make install |& tee mi.txt
+
+8. Set the installed bin directory to PATH. Write below lines in .bashrc
+        PATH=/home/you/mpich-install/bin:$PATH
+        export PATH
+
+9. Check the PATH is updated by running
+        which mpicc
+        -> It should return the installed path
+
+--------------------------------------------------------------------------------------
+
+II. Steps to enable the passwordless SSH
+
+1. Generate a pair of public keys using following command.
+        ssh-keygen -t rsa
+
+2. Create .ssh directory 
+        ssh swapnilr@172.27.19.22 mkdir -p .ssh
+
+3. Upload Generated Public Keys to system
+        cat .ssh/id_rsa.pub | ssh swapnilr@172.27.19.22 'cat >> .ssh/authorized_keys'
+
+4. Set Permissions
+        ssh swapnilr@172.27.19.22 "chmod 700 .ssh; chmod 640 .ssh/authorized_keys"
+
+5. Login to machine through ssh without password

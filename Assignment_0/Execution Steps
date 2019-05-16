@@ -1,0 +1,31 @@
+----------------------------------------------------------------------
+Execution Steps with script file:
+----------------------------------------------------------------------
+
+1. Set PATH var to mpi-install location.
+2. Run ./ass0_runscript.sh (If permission error comes, run chmod +x ass0_runscript.sh)
+    Script will automatically generate the machinefile first and then it will run the mpi commands.
+
+----------------------------------------------------------------------
+Execution Steps without script file:
+----------------------------------------------------------------------
+Set MPI_INSTALL/bin dir in PATH variable.
+1. create a machine file with IP address and ppn. Check the working IPs by pinging them. 
+        172.27.19.10:4
+        172.27.19.11:4
+        172.27.19.12:4
+        172.27.19.13:4
+
+2. Run the below command,
+        i. 1 node -> 
+                        mpiexec -f machinefile -n 4 ./cpi
+       ii. 2 node -> 
+                        mpiexec -f machinefile -n 8 ./cpi
+      iii. 4 node -> 
+                        mpiexec -f machinefile -n 16 ./cpi
+     iiii. 8 node -> 
+                        mpiexec -f machinefile -n 32 ./cpi
+        
+3. NoteDown the time and calculate the SpeedUp = (Time taken by 1 node) / (Time taken by n Node)
+
+4. Plot the Graph of speedup vs number of nodes.

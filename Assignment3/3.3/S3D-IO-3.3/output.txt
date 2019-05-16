@@ -1,0 +1,4140 @@
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.14 sec
+ Time for read       :        4.30 sec
+ Time for write      :       19.18 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :      965.64 MiB/s
+ write bandwidth     :     1082.07 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       19.31 sec
+ I/O   bandwidth     :     1289.49 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.09 sec
+ Time for read       :        2.14 sec
+ Time for write      :       16.41 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1942.06 MiB/s
+ write bandwidth     :     1264.23 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       16.51 sec
+ I/O   bandwidth     :     1508.04 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.11 sec
+ Time for read       :        2.25 sec
+ Time for write      :       13.12 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1841.04 MiB/s
+ write bandwidth     :     1582.27 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       13.21 sec
+ I/O   bandwidth     :     1884.65 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.09 sec
+ Time for read       :        3.46 sec
+ Time for write      :       13.42 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1200.86 MiB/s
+ write bandwidth     :     1546.14 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       13.50 sec
+ I/O   bandwidth     :     1844.01 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.07 sec
+ Time for read       :        3.45 sec
+ Time for write      :       13.23 sec
+ Time for close      :        0.04 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1203.14 MiB/s
+ write bandwidth     :     1568.97 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       13.30 sec
+ I/O   bandwidth     :     1872.13 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.16 sec
+ Time for read       :        2.11 sec
+ Time for write      :       14.56 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1967.76 MiB/s
+ write bandwidth     :     1425.04 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       14.66 sec
+ I/O   bandwidth     :     1698.35 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.14 sec
+ Time for read       :        2.73 sec
+ Time for write      :       13.23 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1523.15 MiB/s
+ write bandwidth     :     1568.21 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       13.34 sec
+ I/O   bandwidth     :     1866.19 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.10 sec
+ Time for read       :        3.81 sec
+ Time for write      :       14.26 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1088.89 MiB/s
+ write bandwidth     :     1455.30 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       14.35 sec
+ I/O   bandwidth     :     1734.89 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.35 sec
+ Time for read       :        3.41 sec
+ Time for write      :       14.07 sec
+ Time for close      :        0.04 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1218.39 MiB/s
+ write bandwidth     :     1474.81 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       14.42 sec
+ I/O   bandwidth     :     1726.94 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.34 sec
+ Time for read       :        2.83 sec
+ Time for write      :       14.01 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        4.05 GiB
+ total write amount  :       20.27 GiB
+ read  bandwidth     :     1466.61 MiB/s
+ write bandwidth     :     1480.76 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       24.32 GiB
+ total I/O   time    :       14.35 sec
+ I/O   bandwidth     :     1735.35 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.30 sec
+ Time for read       :        7.93 sec
+ Time for write      :       46.74 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1784.91 MiB/s
+ write bandwidth     :     1514.88 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       46.84 sec
+ I/O   bandwidth     :     1813.88 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.26 sec
+ Time for read       :        8.07 sec
+ Time for write      :       46.49 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1755.41 MiB/s
+ write bandwidth     :     1522.87 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       46.57 sec
+ I/O   bandwidth     :     1824.48 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        1.16 sec
+ Time for read       :        6.91 sec
+ Time for write      :       45.89 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     2049.01 MiB/s
+ write bandwidth     :     1542.83 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       46.87 sec
+ I/O   bandwidth     :     1812.63 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.76 sec
+ Time for read       :        7.41 sec
+ Time for write      :       46.28 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1909.70 MiB/s
+ write bandwidth     :     1529.85 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       46.81 sec
+ I/O   bandwidth     :     1814.96 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.28 sec
+ Time for read       :        7.41 sec
+ Time for write      :       46.47 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1910.72 MiB/s
+ write bandwidth     :     1523.50 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       46.55 sec
+ I/O   bandwidth     :     1824.97 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.35 sec
+ Time for read       :        7.80 sec
+ Time for write      :       48.03 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1815.91 MiB/s
+ write bandwidth     :     1474.12 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       48.14 sec
+ I/O   bandwidth     :     1765.05 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.30 sec
+ Time for read       :        7.79 sec
+ Time for write      :       47.13 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1816.65 MiB/s
+ write bandwidth     :     1502.38 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       47.22 sec
+ I/O   bandwidth     :     1799.10 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.28 sec
+ Time for read       :        8.26 sec
+ Time for write      :       47.25 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1715.26 MiB/s
+ write bandwidth     :     1498.57 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       47.32 sec
+ I/O   bandwidth     :     1795.33 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.31 sec
+ Time for read       :        7.86 sec
+ Time for write      :       47.08 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1802.66 MiB/s
+ write bandwidth     :     1503.71 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       47.17 sec
+ I/O   bandwidth     :     1801.30 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.27 sec
+ Time for read       :        7.61 sec
+ Time for write      :       47.59 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       13.83 GiB
+ total write amount  :       69.14 GiB
+ read  bandwidth     :     1861.70 MiB/s
+ write bandwidth     :     1487.80 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       82.97 GiB
+ total I/O   time    :       47.68 sec
+ I/O   bandwidth     :     1782.00 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.21 sec
+ Time for read       :       28.55 sec
+ Time for write      :      105.30 sec
+ Time for close      :        0.38 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      906.61 MiB/s
+ write bandwidth     :     1228.87 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      105.62 sec
+ I/O   bandwidth     :     1470.17 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.12 sec
+ Time for read       :       26.42 sec
+ Time for write      :      108.15 sec
+ Time for close      :        0.14 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      979.60 MiB/s
+ write bandwidth     :     1196.41 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      108.26 sec
+ I/O   bandwidth     :     1434.21 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.09 sec
+ Time for read       :       28.52 sec
+ Time for write      :      102.90 sec
+ Time for close      :        0.12 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      907.35 MiB/s
+ write bandwidth     :     1257.44 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      103.02 sec
+ I/O   bandwidth     :     1507.18 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.17 sec
+ Time for read       :       29.58 sec
+ Time for write      :      103.56 sec
+ Time for close      :        0.19 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      874.81 MiB/s
+ write bandwidth     :     1249.52 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      103.80 sec
+ I/O   bandwidth     :     1495.90 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.14 sec
+ Time for read       :       25.53 sec
+ Time for write      :      114.32 sec
+ Time for close      :        0.12 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :     1013.70 MiB/s
+ write bandwidth     :     1131.85 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      114.48 sec
+ I/O   bandwidth     :     1356.33 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.14 sec
+ Time for read       :       27.48 sec
+ Time for write      :      110.82 sec
+ Time for close      :        0.22 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      941.86 MiB/s
+ write bandwidth     :     1167.58 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      111.04 sec
+ I/O   bandwidth     :     1398.32 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.14 sec
+ Time for read       :       26.25 sec
+ Time for write      :      108.73 sec
+ Time for close      :        0.24 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      986.01 MiB/s
+ write bandwidth     :     1190.07 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      108.92 sec
+ I/O   bandwidth     :     1425.56 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.49 sec
+ Time for read       :       26.61 sec
+ Time for write      :      102.76 sec
+ Time for close      :        0.14 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      972.65 MiB/s
+ write bandwidth     :     1259.14 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      102.86 sec
+ I/O   bandwidth     :     1509.50 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.36 sec
+ Time for read       :       27.14 sec
+ Time for write      :      108.90 sec
+ Time for close      :        0.36 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      953.46 MiB/s
+ write bandwidth     :     1188.16 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      109.35 sec
+ I/O   bandwidth     :     1419.95 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 8
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      32
+ Global array size   :     200 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.07 sec
+ Time for read       :       28.00 sec
+ Time for write      :      101.44 sec
+ Time for close      :        0.11 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       25.27 GiB
+ total write amount  :      126.36 GiB
+ read  bandwidth     :      924.16 MiB/s
+ write bandwidth     :     1275.62 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      151.63 GiB
+ total I/O   time    :      101.53 sec
+ I/O   bandwidth     :     1529.34 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.09 sec
+ Time for read       :        2.44 sec
+ Time for write      :       15.82 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3399.09 MiB/s
+ write bandwidth     :     2623.90 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       15.92 sec
+ I/O   bandwidth     :     3128.48 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.12 sec
+ Time for read       :        3.08 sec
+ Time for write      :       16.09 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     2696.72 MiB/s
+ write bandwidth     :     2579.79 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       16.18 sec
+ I/O   bandwidth     :     3077.81 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.18 sec
+ Time for read       :        2.56 sec
+ Time for write      :       15.84 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3241.18 MiB/s
+ write bandwidth     :     2620.78 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       15.93 sec
+ I/O   bandwidth     :     3127.17 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.15 sec
+ Time for read       :        2.81 sec
+ Time for write      :       16.51 sec
+ Time for close      :        0.04 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     2958.24 MiB/s
+ write bandwidth     :     2513.18 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       16.60 sec
+ I/O   bandwidth     :     3000.91 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.11 sec
+ Time for read       :        2.55 sec
+ Time for write      :       15.90 sec
+ Time for close      :        0.04 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3255.76 MiB/s
+ write bandwidth     :     2609.62 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       16.00 sec
+ I/O   bandwidth     :     3113.11 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.08 sec
+ Time for read       :        2.40 sec
+ Time for write      :       15.52 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3460.39 MiB/s
+ write bandwidth     :     2674.58 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       15.61 sec
+ I/O   bandwidth     :     3190.67 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.17 sec
+ Time for read       :        2.57 sec
+ Time for write      :       16.33 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3235.68 MiB/s
+ write bandwidth     :     2541.50 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       16.42 sec
+ I/O   bandwidth     :     3032.33 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :        2.04 sec
+ Time for write      :       15.35 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     4075.88 MiB/s
+ write bandwidth     :     2704.47 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       15.45 sec
+ I/O   bandwidth     :     3222.74 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.43 sec
+ Time for read       :        2.49 sec
+ Time for write      :       15.74 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3328.52 MiB/s
+ write bandwidth     :     2636.38 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       16.12 sec
+ I/O   bandwidth     :     3090.52 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.36 sec
+ Time for read       :        2.22 sec
+ Time for write      :       15.81 sec
+ Time for close      :        0.05 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        8.11 GiB
+ total write amount  :       40.53 GiB
+ read  bandwidth     :     3738.39 MiB/s
+ write bandwidth     :     2625.75 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       48.64 GiB
+ total I/O   time    :       16.17 sec
+ I/O   bandwidth     :     3080.36 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.33 sec
+ Time for read       :        9.73 sec
+ Time for write      :       50.74 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2910.75 MiB/s
+ write bandwidth     :     2790.76 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       50.83 sec
+ I/O   bandwidth     :     3343.10 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.32 sec
+ Time for read       :        9.79 sec
+ Time for write      :       52.25 sec
+ Time for close      :        0.10 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2892.18 MiB/s
+ write bandwidth     :     2710.26 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       52.35 sec
+ I/O   bandwidth     :     3246.07 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.26 sec
+ Time for read       :        9.99 sec
+ Time for write      :       51.66 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2833.70 MiB/s
+ write bandwidth     :     2741.17 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       51.75 sec
+ I/O   bandwidth     :     3283.28 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.42 sec
+ Time for read       :        9.47 sec
+ Time for write      :       49.93 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2990.42 MiB/s
+ write bandwidth     :     2835.80 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       50.03 sec
+ I/O   bandwidth     :     3396.45 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.80 sec
+ Time for read       :        9.05 sec
+ Time for write      :       50.62 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     3128.22 MiB/s
+ write bandwidth     :     2797.51 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       51.18 sec
+ I/O   bandwidth     :     3320.12 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.43 sec
+ Time for read       :        9.48 sec
+ Time for write      :       53.94 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2986.07 MiB/s
+ write bandwidth     :     2625.30 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       54.05 sec
+ I/O   bandwidth     :     3143.77 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.37 sec
+ Time for read       :        9.15 sec
+ Time for write      :       52.77 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     3096.29 MiB/s
+ write bandwidth     :     2683.37 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       52.85 sec
+ I/O   bandwidth     :     3215.11 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.33 sec
+ Time for read       :       11.34 sec
+ Time for write      :       53.37 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2498.38 MiB/s
+ write bandwidth     :     2652.96 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       53.49 sec
+ I/O   bandwidth     :     3176.68 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.28 sec
+ Time for read       :        8.08 sec
+ Time for write      :       53.46 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     3507.13 MiB/s
+ write bandwidth     :     2648.80 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       53.56 sec
+ I/O   bandwidth     :     3172.73 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.32 sec
+ Time for read       :        9.59 sec
+ Time for write      :       53.21 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       27.66 GiB
+ total write amount  :      138.28 GiB
+ read  bandwidth     :     2954.06 MiB/s
+ write bandwidth     :     2661.31 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      165.94 GiB
+ total I/O   time    :       53.32 sec
+ I/O   bandwidth     :     3186.95 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.11 sec
+ Time for read       :       26.54 sec
+ Time for write      :      107.68 sec
+ Time for close      :        0.13 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1949.92 MiB/s
+ write bandwidth     :     2403.27 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      107.78 sec
+ I/O   bandwidth     :     2881.17 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.31 sec
+ Time for read       :       36.25 sec
+ Time for write      :      111.30 sec
+ Time for close      :        0.11 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1427.85 MiB/s
+ write bandwidth     :     2325.25 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      111.57 sec
+ I/O   bandwidth     :     2783.53 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.36 sec
+ Time for read       :       26.60 sec
+ Time for write      :      110.07 sec
+ Time for close      :        0.23 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1945.62 MiB/s
+ write bandwidth     :     2351.21 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      110.52 sec
+ I/O   bandwidth     :     2809.82 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.26 sec
+ Time for read       :       26.74 sec
+ Time for write      :      110.67 sec
+ Time for close      :        0.33 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1935.95 MiB/s
+ write bandwidth     :     2338.47 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      110.79 sec
+ I/O   bandwidth     :     2802.95 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.16 sec
+ Time for read       :       26.17 sec
+ Time for write      :      112.92 sec
+ Time for close      :        0.15 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1977.83 MiB/s
+ write bandwidth     :     2291.88 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      113.10 sec
+ I/O   bandwidth     :     2745.85 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.91 sec
+ Time for read       :       26.54 sec
+ Time for write      :      107.62 sec
+ Time for close      :        0.49 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1950.31 MiB/s
+ write bandwidth     :     2404.54 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      109.00 sec
+ I/O   bandwidth     :     2849.10 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :       26.16 sec
+ Time for write      :      123.08 sec
+ Time for close      :        0.11 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1978.53 MiB/s
+ write bandwidth     :     2102.67 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      123.20 sec
+ I/O   bandwidth     :     2520.64 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.11 sec
+ Time for read       :       26.18 sec
+ Time for write      :      106.64 sec
+ Time for close      :        0.11 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1977.13 MiB/s
+ write bandwidth     :     2426.84 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      106.74 sec
+ I/O   bandwidth     :     2909.44 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.12 sec
+ Time for read       :       27.92 sec
+ Time for write      :      105.93 sec
+ Time for close      :        0.12 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1853.55 MiB/s
+ write bandwidth     :     2443.11 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      106.05 sec
+ I/O   bandwidth     :     2928.43 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 16
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     400 x    400 x    400
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.12 sec
+ Time for read       :       29.61 sec
+ Time for write      :      104.11 sec
+ Time for close      :        0.12 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       50.54 GiB
+ total write amount  :      252.72 GiB
+ read  bandwidth     :     1747.79 MiB/s
+ write bandwidth     :     2485.75 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      303.27 GiB
+ total I/O   time    :      104.23 sec
+ I/O   bandwidth     :     2979.36 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :        3.52 sec
+ Time for write      :       66.11 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4715.63 MiB/s
+ write bandwidth     :     1255.64 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       66.22 sec
+ I/O   bandwidth     :     1504.19 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.12 sec
+ Time for read       :        3.02 sec
+ Time for write      :       65.26 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     5488.82 MiB/s
+ write bandwidth     :     1271.91 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       65.39 sec
+ I/O   bandwidth     :     1523.37 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :        3.10 sec
+ Time for write      :       64.54 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     5351.20 MiB/s
+ write bandwidth     :     1286.20 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       64.66 sec
+ I/O   bandwidth     :     1540.51 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.20 sec
+ Time for read       :        3.53 sec
+ Time for write      :       67.34 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4709.68 MiB/s
+ write bandwidth     :     1232.59 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       67.48 sec
+ I/O   bandwidth     :     1476.21 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.22 sec
+ Time for read       :        3.62 sec
+ Time for write      :       60.78 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4591.97 MiB/s
+ write bandwidth     :     1365.81 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       60.91 sec
+ I/O   bandwidth     :     1635.28 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.20 sec
+ Time for read       :        3.39 sec
+ Time for write      :       62.13 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4901.95 MiB/s
+ write bandwidth     :     1335.96 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       62.26 sec
+ I/O   bandwidth     :     1599.77 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.19 sec
+ Time for read       :        3.44 sec
+ Time for write      :       65.18 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4821.80 MiB/s
+ write bandwidth     :     1273.61 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       65.29 sec
+ I/O   bandwidth     :     1525.56 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.15 sec
+ Time for read       :        3.37 sec
+ Time for write      :       61.82 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4929.88 MiB/s
+ write bandwidth     :     1342.83 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       61.98 sec
+ I/O   bandwidth     :     1607.19 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.12 sec
+ Time for read       :        3.45 sec
+ Time for write      :       67.55 sec
+ Time for close      :        0.06 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     4812.79 MiB/s
+ write bandwidth     :     1228.75 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       67.68 sec
+ I/O   bandwidth     :     1471.84 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.17 sec
+ Time for read       :        3.27 sec
+ Time for write      :       61.33 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       16.21 GiB
+ total write amount  :       81.06 GiB
+ read  bandwidth     :     5074.37 MiB/s
+ write bandwidth     :     1353.39 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :       97.28 GiB
+ total I/O   time    :       61.46 sec
+ I/O   bandwidth     :     1620.77 MiB/s
+ Number of species   :       11 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.30 sec
+ Time for read       :       10.94 sec
+ Time for write      :      224.57 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     5176.84 MiB/s
+ write bandwidth     :     1261.10 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      224.69 sec
+ I/O   bandwidth     :     1512.51 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.36 sec
+ Time for read       :       10.03 sec
+ Time for write      :      216.26 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     5645.00 MiB/s
+ write bandwidth     :     1309.56 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      216.36 sec
+ I/O   bandwidth     :     1570.73 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.28 sec
+ Time for read       :       12.28 sec
+ Time for write      :      219.34 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     4613.64 MiB/s
+ write bandwidth     :     1291.19 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      219.45 sec
+ I/O   bandwidth     :     1548.59 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.34 sec
+ Time for read       :       11.24 sec
+ Time for write      :      217.90 sec
+ Time for close      :        0.07 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     5039.05 MiB/s
+ write bandwidth     :     1299.72 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      218.03 sec
+ I/O   bandwidth     :     1558.71 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.38 sec
+ Time for read       :       13.23 sec
+ Time for write      :      223.85 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     4281.46 MiB/s
+ write bandwidth     :     1265.17 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      223.97 sec
+ I/O   bandwidth     :     1517.34 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.26 sec
+ Time for read       :       14.85 sec
+ Time for write      :      219.04 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     3813.24 MiB/s
+ write bandwidth     :     1292.91 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      219.15 sec
+ I/O   bandwidth     :     1550.73 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.31 sec
+ Time for read       :       21.76 sec
+ Time for write      :      223.91 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     2602.78 MiB/s
+ write bandwidth     :     1264.84 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      224.02 sec
+ I/O   bandwidth     :     1517.05 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.38 sec
+ Time for read       :       12.20 sec
+ Time for write      :      226.57 sec
+ Time for close      :        0.09 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     4644.52 MiB/s
+ write bandwidth     :     1249.94 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      226.70 sec
+ I/O   bandwidth     :     1499.12 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.23 sec
+ Time for read       :       16.40 sec
+ Time for write      :      219.13 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     3454.36 MiB/s
+ write bandwidth     :     1292.39 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      219.25 sec
+ I/O   bandwidth     :     1550.04 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.31 sec
+ Time for read       :       11.67 sec
+ Time for write      :      217.82 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :       55.31 GiB
+ total write amount  :      276.57 GiB
+ read  bandwidth     :     4853.01 MiB/s
+ write bandwidth     :     1300.16 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      331.88 GiB
+ total I/O   time    :      217.93 sec
+ I/O   bandwidth     :     1559.41 MiB/s
+ Number of species   :       52 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.20 sec
+ Time for read       :       38.18 sec
+ Time for write      :      438.77 sec
+ Time for close      :        0.15 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2711.58 MiB/s
+ write bandwidth     :     1179.61 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      438.96 sec
+ I/O   bandwidth     :     1414.92 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :       37.89 sec
+ Time for write      :      425.20 sec
+ Time for close      :        0.23 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2732.28 MiB/s
+ write bandwidth     :     1217.25 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      425.46 sec
+ I/O   bandwidth     :     1459.83 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.15 sec
+ Time for read       :       41.39 sec
+ Time for write      :      446.08 sec
+ Time for close      :        0.13 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2501.28 MiB/s
+ write bandwidth     :     1160.27 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      446.25 sec
+ I/O   bandwidth     :     1391.82 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :       38.64 sec
+ Time for write      :      442.12 sec
+ Time for close      :        0.14 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2678.97 MiB/s
+ write bandwidth     :     1170.68 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      442.25 sec
+ I/O   bandwidth     :     1404.40 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.14 sec
+ Time for read       :       39.18 sec
+ Time for write      :      438.61 sec
+ Time for close      :        0.14 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2642.15 MiB/s
+ write bandwidth     :     1180.05 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      438.75 sec
+ I/O   bandwidth     :     1415.61 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :       37.45 sec
+ Time for write      :      451.70 sec
+ Time for close      :        0.15 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2764.44 MiB/s
+ write bandwidth     :     1145.85 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      451.85 sec
+ I/O   bandwidth     :     1374.57 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.20 sec
+ Time for read       :       38.18 sec
+ Time for write      :      438.77 sec
+ Time for close      :        0.15 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2711.58 MiB/s
+ write bandwidth     :     1179.61 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      438.96 sec
+ I/O   bandwidth     :     1414.92 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :       37.89 sec
+ Time for write      :      425.20 sec
+ Time for close      :        0.23 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2732.28 MiB/s
+ write bandwidth     :     1217.25 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      425.46 sec
+ I/O   bandwidth     :     1459.83 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.15 sec
+ Time for read       :       41.39 sec
+ Time for write      :      446.08 sec
+ Time for close      :        0.13 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2501.28 MiB/s
+ write bandwidth     :     1160.27 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      446.25 sec
+ I/O   bandwidth     :     1391.82 MiB/s
+ Number of species   :      100 x
+ ---- MPI file info used ----
+                      cb_buffer_size = 26214400
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 32
+                   romio_no_indep_rw = true
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = enable
+                      romio_ds_write = enable
+                      cb_config_list = *:2
+               romio_filesystem_type = NFS:
+               romio_aggregator_list = 0 1 8 9 16 17 24 25 32 33 40 41 48 49 56 57 64 65 72 73 80 81 88 89 96 97 104 105 112 113 120 121
+                nc_header_align_size = 512
+                   nc_var_align_size = 4
+                nc_record_align_size = 4
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :     128
+ Global array size   :     400 x    400 x    800
+ output file path    : /scratch/swapnilr
+ file striping count :       0
+ file striping size  :       0 bytes
+ -----------------------------------------------
+ Time for open       :        0.13 sec
+ Time for read       :       38.64 sec
+ Time for write      :      442.12 sec
+ Time for close      :        0.14 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :      101.09 GiB
+ total write amount  :      505.45 GiB
+ read  bandwidth     :     2678.97 MiB/s
+ write bandwidth     :     1170.68 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :      606.54 GiB
+ total I/O   time    :      442.25 sec
+ I/O   bandwidth     :     1404.40 MiB/s
+ Number of species   :      100 x
